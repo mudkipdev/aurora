@@ -5,6 +5,7 @@
         "charliermarsh.ruff",
         "matangover.mypy",
         "ms-python.black-formatter",
-        "ms-python.isort"
+        "ms-python.isort",
+        "github.vscode-github-actions"
     ]
 }
