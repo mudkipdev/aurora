@@ -1,6 +1,6 @@
 import os
-
 import tomllib
+
 from bot import Aurora
 from dotenv import load_dotenv
 from utils import Config, InvalidConfigException
@@ -19,5 +19,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     load_dotenv()
-    main()
     main()

@@ -5,5 +5,10 @@
         "editor.codeActionsOnSave": {
             "source.organizeImports": true
         },
-    }
+    },
+    "files.exclude": {
+        "**/__pycache__": true,
+        ".mypy_cache": true
+    },
+    "ruff.organizeImports": false
 }
